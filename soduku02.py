@@ -98,6 +98,7 @@ print(print_puzzle(puzzle))
 solve(puzzle)
 print("- - - - - - - - - - - - - - \n   Solved Puzzle")
 print(print_puzzle(puzzle))
+print("END")
 
 
 
